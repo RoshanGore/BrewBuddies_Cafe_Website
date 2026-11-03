@@ -44,6 +44,23 @@ BrewBuddies is a full-stack, production-quality web application built for dine-i
 - **Node.js** (v18 or higher)
 - **MongoDB Atlas** (Free cloud database) or local MongoDB service
 
+## ☁️ Deploy the Backend to Render
+
+The repository includes a Render Blueprint (`render.yaml`) for deploying the API as a Node web service.
+
+1. Create a MongoDB Atlas database and allow connections from your Render service's outbound IP addresses. If your Render plan does not provide fixed outbound IPs, `0.0.0.0/0` is an option, but exposes the database endpoint publicly; use a strong database password and restrict access by other means.
+2. In Render, choose **New → Blueprint**, connect this repository, and deploy. The Blueprint uses `server/` as the service root and sets the start command and health check.
+3. When prompted, set:
+   - `MONGODB_URI`: the MongoDB Atlas connection string for the BrewBuddies database.
+   - `CLIENT_URL`: the exact origin of the deployed frontend (for example, `https://your-site.example.com`, without a trailing slash). This is used by the production CORS policy.
+   - `JWT_SECRET`: Render generates a value automatically. Keep it private and do not rotate it casually, since doing so invalidates existing tokens.
+4. After deployment, verify `https://<your-render-service>.onrender.com/api/health` returns a JSON response with `"status": "ok"`.
+5. Configure the frontend's build-time `VITE_API_URL` to `https://<your-render-service>.onrender.com/api`, then rebuild and redeploy the frontend. The default `/api` only works when the frontend and API share an origin.
+
+If Firebase customer sign-in is enabled, also set `FIREBASE_PROJECT_ID` and `FIREBASE_SERVICE_ACCOUNT` in the Render service environment. `FIREBASE_SERVICE_ACCOUNT` must be the full service-account JSON; do not commit it to the repository. Set other integrations such as `FAST2SMS_API_KEY` in Render only if you use them.
+
+The API is a separate service: this Blueprint does not deploy the frontend or seed the database. To add the demo data, run `npm run seed` from `server/` with the production `MONGODB_URI` configured.
+
 ### 2. Configure Environment Variables
 Open `server/.env` and configure your database and port:
 
