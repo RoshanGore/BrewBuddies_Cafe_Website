@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "6aa44740c87e992caa0fb241",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Artisan Flat White",
+    "category": "6aa44740c87e992caa0fb238",
+    "description": "Ristretto double shot blended with microfoam textured whole milk, adorned with swan latte art.",
+    "price": 210,
+    "image": "https://images.unsplash.com/photo-1577968897966-3d4325b36b61?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 4,
+    "tags": [
+      "Popular"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-10-13T05:17:51.798Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb243",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Vanilla Sweet Cream Cold Brew",
+    "category": "6aa44740c87e992caa0fb239",
+    "description": "Slow-steeped 18-hour cold brew topped with house-made vanilla sweet cream float.",
+    "price": 230,
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 3,
+    "tags": [
+      "Refreshing",
+      "Low Acid"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-09-11T18:24:00.938Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb244",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Flaky Almond Croissant",
+    "category": "6aa44740c87e992caa0fb23a",
+    "description": "Golden buttery French pastry filled with sweet almond frangipane and dusted with sugar.",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 2,
+    "tags": [
+      "Fresh Baked",
+      "Bestseller"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-09-11T18:24:00.938Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb242",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Spanish Iced Latte",
+    "category": "6aa44740c87e992caa0fb239",
+    "description": "Espresso sweetened with silky condensed milk poured over crystal ice blocks.",
+    "price": 260,
+    "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 4,
+    "tags": [
+      "Customer Favorite"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-09-11T18:24:00.938Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb246",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Smoked Turkey & Pesto Panini",
+    "category": "6aa44740c87e992caa0fb23b",
+    "description": "Sliced turkey breast, fresh mozzarella, sundried tomatoes, and basil pesto on rustic focaccia.",
+    "price": 360,
+    "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": false,
+    "isAvailable": true,
+    "preparationTimeMinutes": 10,
+    "tags": [
+      "Warm & Toasty"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-10-13T05:18:18.291Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb245",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Avocado & Truffle Sourdough Toast",
+    "category": "6aa44740c87e992caa0fb23b",
+    "description": "Toasted artisan sourdough, mashed Hass avocado, cherry tomatoes, and white truffle oil.",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 8,
+    "tags": [
+      "Chef Special",
+      "Healthy"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-09-11T18:24:00.938Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb247",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Basque Burnt Cheesecake",
+    "category": "6aa44740c87e992caa0fb23c",
+    "description": "Creamy, caramelized crust cheesecake with a custardy molten center. Served with berry coulis.",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=600&q=80",
+    "isVegetarian": true,
+    "isAvailable": true,
+    "preparationTimeMinutes": 3,
+    "tags": [
+      "Signature Dessert"
+    ],
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.938Z",
+    "updatedAt": "2026-09-11T18:24:00.938Z"
+  }
+]

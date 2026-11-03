@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "6aa44741c87e992caa0fb267",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb231",
+    "rewardId": "6aa44741c87e992caa0fb255",
+    "pointsUsed": 120,
+    "orderId": "6aa44741c87e992caa0fb25e",
+    "createdAt": "2026-09-11T18:24:01.306Z",
+    "updatedAt": "2026-09-11T18:24:01.306Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa4dd04751e8c6d5567e934",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa4dd011e1eeb72e50bb8e3",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T05:03:00.454Z",
+    "updatedAt": "2026-09-12T05:03:00.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa4dd04751e8c6d5567e932",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa4dd011e1eeb72e50bb8e3",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T05:03:00.451Z",
+    "updatedAt": "2026-09-12T05:03:00.451Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa4dd3d751e8c6d5567e9a7",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa4dd3b93d528077919b605",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T05:03:57.829Z",
+    "updatedAt": "2026-09-12T05:03:57.829Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa4dd86751e8c6d5567ea18",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa4dd8310c5bc31d99b280d",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T05:05:10.570Z",
+    "updatedAt": "2026-09-12T05:05:10.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa5813de09d50b6dc12d98a",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa58136998f6062c3fe2242",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T16:43:41.272Z",
+    "updatedAt": "2026-09-12T16:43:41.272Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa581d1e09d50b6dc12da33",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa581bd3d76cd7fa57ca4b1",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T16:46:09.410Z",
+    "updatedAt": "2026-09-12T16:46:09.410Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa5827de09d50b6dc12daf2",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa5826abd2e87a9681280df",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T16:49:01.949Z",
+    "updatedAt": "2026-09-12T16:49:01.949Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa582e3e09d50b6dc12dbb1",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa582d162141941b4ca9a41",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T16:50:43.327Z",
+    "updatedAt": "2026-09-12T16:50:43.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa58c7ce09d50b6dc12e3c9",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa58c77e5cf2d0d2d7b3aa9",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T17:31:40.651Z",
+    "updatedAt": "2026-09-12T17:31:40.651Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa58ff98262651dd7592da4",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb22b",
+    "rewardId": "6aa58ff44bb262a1f8d8b3d1",
+    "pointsUsed": 150,
+    "createdAt": "2026-09-12T17:46:33.471Z",
+    "updatedAt": "2026-09-12T17:46:33.471Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab1dd21130c9edab23f238b",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb210",
+    "rewardId": "6aa44741c87e992caa0fb255",
+    "pointsUsed": 120,
+    "createdAt": "2026-09-22T01:42:57.643Z",
+    "updatedAt": "2026-09-22T01:42:57.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab207b13eff95e63c0df4ab",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb210",
+    "rewardId": "6aa44741c87e992caa0fb255",
+    "pointsUsed": 120,
+    "createdAt": "2026-09-22T04:44:33.397Z",
+    "updatedAt": "2026-09-22T04:44:33.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd8f43212f81c6a73634dc",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "customerId": "6aa44740c87e992caa0fb210",
+    "rewardId": "6aa44741c87e992caa0fb255",
+    "pointsUsed": 120,
+    "createdAt": "2026-10-13T01:54:11.905Z",
+    "updatedAt": "2026-10-13T01:54:11.905Z",
+    "__v": 0
+  }
+]

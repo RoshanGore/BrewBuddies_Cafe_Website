@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6aa44740c87e992caa0fb22d",
+    "cafeName": "BrewBuddies Flagship Cafe",
+    "tagline": "Crafted Coffee & Cozy Moments",
+    "currency": "₹",
+    "taxRate": 5,
+    "pointsPerDollar": 10,
+    "pointsRedemptionRatio": 100,
+    "wifiSsid": "BrewBuddies_Guest_WiFi",
+    "wifiPassword": "CoffeeVibes2026Secure",
+    "address": "42 Roaster Avenue, Downtown",
+    "phone": "+91 (11) 4567-BREW",
+    "createdAt": "2026-09-11T18:24:00.775Z",
+    "updatedAt": "2026-09-15T06:57:45.847Z",
+    "__v": 0
+  }
+]

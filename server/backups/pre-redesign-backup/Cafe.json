@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "6aa44740c87e992caa0fb217",
+    "name": "BrewBuddies Flagship Cafe",
+    "slug": "brewbuddies-downtown",
+    "logo": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=300&q=80",
+    "address": "42 Roaster Avenue, Downtown",
+    "phone": "+91 (11) 4567-BREW",
+    "email": "contact@brewbuddies.com",
+    "ownerId": "6aa44740c87e992caa0fb210",
+    "currency": "₹",
+    "taxRate": 5,
+    "pointsPerDollar": 10,
+    "wifiSsid": "BrewBuddies_Guest_WiFi",
+    "wifiPassword": "CoffeeVibes2026Secure",
+    "isActive": true,
+    "createdAt": "2026-09-11T18:24:00.505Z",
+    "updatedAt": "2026-09-15T06:57:45.764Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6aa44741c87e992caa0fb255",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "Free Classic Cappuccino",
+    "description": "Redeem 120 points for a freshly steamed cappuccino of your choice.",
+    "pointsRequired": 120,
+    "rewardType": "free_item",
+    "rewardValue": 210,
+    "productId": "6aa44740c87e992caa0fb241",
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.027Z",
+    "updatedAt": "2026-09-11T18:24:01.027Z"
+  },
+  {
+    "_id": "6aa44741c87e992caa0fb256",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "₹50 Off Your Dine-In Bill",
+    "description": "Get ₹50 instant deduction on any order of ₹200 or more.",
+    "pointsRequired": 150,
+    "rewardType": "fixed_discount",
+    "rewardValue": 50,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.027Z",
+    "updatedAt": "2026-09-11T18:24:01.027Z"
+  },
+  {
+    "_id": "6aa44741c87e992caa0fb258",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "name": "20% Off Entire Dine-in Order",
+    "description": "VIP diner discount for our true coffee aficionados.",
+    "pointsRequired": 200,
+    "rewardType": "percentage_discount",
+    "rewardValue": 20,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.027Z",
+    "updatedAt": "2026-09-11T18:24:01.027Z"
+  }
+]

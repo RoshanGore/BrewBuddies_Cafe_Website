@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-deep-espresso: #24160F;
+  --color-dark-roast: #FAF8F5;
+  --color-dark-card: #FFFFFF;
+  --color-dark-border: #EAE0D5;
+  --color-mocha: #6B3515;
+  --color-caramel-brown: #8B4A1D;
+  --color-caramel: #C8752A;
+  --color-golden-caramel: #E5A04B;
+  --color-warm-beige: #F5EBDD;
+  --color-cream: #FAF8F5;
+  --color-ivory: #FFFDFC;
+  --color-coffee-cream: #EFE0CB;
+  --color-text-primary: #24160F;
+  --color-text-secondary: #6E5545;
+  --color-border: #EAE0D5;
+  --color-success: #16A34A;
+  --color-warning: #D99A32;
+  --color-error: #DC2626;
+}
+
+@layer base {
+  html, body {
+    scroll-behavior: auto !important;
+  }
+  body {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    background-color: #FAF8F5;
+    color: #24160F;
+  }
+}
+
+/* Smooth custom warm coffee scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #DCC9B3;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C8752A;
+}
+
+/* Subtle pulse badge animation */
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.88; transform: scale(1.02); }
+}
+.animate-pulse-soft {
+  animation: pulse-soft 2s infinite ease-in-out;
+}
+
+/* Order progress pulse animation */
+@keyframes shimmer-warm {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.animate-shimmer {
+  background: linear-gradient(90deg, rgba(200,117,42,0.06) 0%, rgba(200,117,42,0.2) 50%, rgba(200,117,42,0.06) 100%);
+  background-size: 200% 100%;
+  animation: shimmer-warm 2.5s infinite;
+}
+
+/* Hide scrollbars */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

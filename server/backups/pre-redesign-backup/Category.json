@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6aa44740c87e992caa0fb23c",
+    "name": "Desserts & Sweets",
+    "description": "Cheesecakes and sweet bakery items",
+    "icon": "cake",
+    "displayOrder": 5,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.893Z",
+    "updatedAt": "2026-09-11T18:24:00.893Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb23a",
+    "name": "Artisan Bakery",
+    "description": "Freshly baked morning croissants and sourdough",
+    "icon": "croissant",
+    "displayOrder": 3,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.893Z",
+    "updatedAt": "2026-09-11T18:24:00.893Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb239",
+    "name": "Cold Brews & Iced Delights",
+    "description": "Slow-steeped refreshing chillers",
+    "icon": "cup-soda",
+    "displayOrder": 2,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.893Z",
+    "updatedAt": "2026-09-11T18:24:00.893Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb238",
+    "name": "Espresso & Hot Brews",
+    "description": "Rich, bold handcrafted coffees",
+    "icon": "coffee",
+    "displayOrder": 1,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.893Z",
+    "updatedAt": "2026-09-11T18:24:00.893Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb23b",
+    "name": "Gourmet Sandwiches & Bites",
+    "description": "Warm paninis and avocado sourdough",
+    "icon": "sandwich",
+    "displayOrder": 4,
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.893Z",
+    "updatedAt": "2026-09-11T18:24:00.893Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "6aa44741c87e992caa0fb25c",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "code": "SWEETTOOTH",
+    "title": "15% Off Artisan Bakery",
+    "description": "Treat yourself to fresh croissants and decadent cheesecakes.",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minOrderAmount": 150,
+    "maxDiscount": 0,
+    "isActive": true,
+    "startDate": "2026-09-11T18:24:01.062Z",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.063Z",
+    "updatedAt": "2026-09-11T18:24:01.063Z"
+  },
+  {
+    "_id": "6aa44741c87e992caa0fb25a",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "code": "BREWFIRST",
+    "title": "First Table Visit: 20% Off",
+    "description": "Enjoy 20% off your first dine-in order with us!",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minOrderAmount": 200,
+    "maxDiscount": 100,
+    "isActive": true,
+    "startDate": "2026-09-11T18:24:01.062Z",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.063Z",
+    "updatedAt": "2026-09-11T18:24:01.063Z"
+  },
+  {
+    "_id": "6aa44741c87e992caa0fb25b",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "code": "COZY50",
+    "title": "₹50 Off Orders Above ₹300",
+    "description": "Save ₹50 immediately on any hot brew & food combo.",
+    "discountType": "flat",
+    "discountValue": 50,
+    "minOrderAmount": 300,
+    "maxDiscount": 0,
+    "isActive": true,
+    "startDate": "2026-09-11T18:24:01.062Z",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:01.063Z",
+    "updatedAt": "2026-09-11T18:24:01.063Z"
+  }
+]

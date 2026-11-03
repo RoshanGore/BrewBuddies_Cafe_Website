@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "6aa44740c87e992caa0fb24d",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 4,
+    "capacity": 4,
+    "status": "vacant",
+    "isActive": true,
+    "qrToken": "28041aae4a714ecb1b2aa6fe",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-11T18:24:00.983Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb24b",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 2,
+    "capacity": 4,
+    "status": "vacant",
+    "isActive": true,
+    "qrToken": "a661bba481cbb83571432879",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-11T18:24:00.983Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb24c",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 3,
+    "capacity": 4,
+    "status": "occupied",
+    "isActive": true,
+    "qrToken": "7114c3aaeac37f45d2a5b2f4",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-11T18:24:00.983Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb24a",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 1,
+    "capacity": 6,
+    "status": "occupied",
+    "isActive": true,
+    "qrToken": "f9f049ccc53087835a559721",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-12T16:50:58.104Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb24f",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 6,
+    "capacity": 6,
+    "status": "vacant",
+    "isActive": true,
+    "qrToken": "a03d9cd0f6b3878d7f2b0e7b",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-11T18:24:00.983Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb250",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 7,
+    "capacity": 6,
+    "status": "occupied",
+    "isActive": true,
+    "qrToken": "e6e8b8a8281c94c7a8ad13ae",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.984Z",
+    "updatedAt": "2026-09-22T01:41:08.396Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb24e",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 5,
+    "capacity": 6,
+    "status": "occupied",
+    "isActive": true,
+    "qrToken": "3746257984feb851f226033a",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.983Z",
+    "updatedAt": "2026-09-20T14:10:53.857Z"
+  },
+  {
+    "_id": "6aa44740c87e992caa0fb251",
+    "cafeId": "6aa44740c87e992caa0fb217",
+    "tableNumber": 8,
+    "capacity": 6,
+    "status": "vacant",
+    "isActive": true,
+    "qrToken": "20279788d4282bd294ccef62",
+    "__v": 0,
+    "createdAt": "2026-09-11T18:24:00.984Z",
+    "updatedAt": "2026-09-11T18:24:00.984Z"
+  }
+]
